@@ -24,7 +24,7 @@
 </script>
 
 <script setup>
-  import { ref } from 'vue';
+import {onMounted, ref} from 'vue';
   import { useStore } from 'vuex';
   import { ElMessageBox } from 'element-plus';
   import { setting } from '@/config/setting';
@@ -37,7 +37,9 @@
   const userName = ref('hu-snail');
   const store = useStore();
   const router = useRouter();
-
+  onMounted(()=> {
+    console.log(11111111111111111111)
+  })
   defineProps({
     color: {
       type: String,

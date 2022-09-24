@@ -1,4 +1,4 @@
-<div align="center"><img src="https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/logo.png"/></div>
+<div align="center"><img src="https://gitee.com/userAccount/vue3-admin-element-template/raw/master/src/assets/logo.png"/></div>
 
 <h1 align="center">Vue3 admin element template</h1>
 
@@ -19,7 +19,7 @@
 
 提示：项目使用<script setup> 新语法编写，会有黄色警告信息，不用理会！！！
 
-在线预览地址：https://hu-snail.gitee.io/vue3-admin-element-template 
+在线预览地址：https://userAccount.gitee.io/vue3-admin-element-template 
 
 ## 特性
 
@@ -32,7 +32,7 @@
 
 ## vue3资源库
 一个收集vue3资源的网站，包含web端/移动端/小程序等
-在线预览地址：[vue3-resource](https://hu-snail.github.io/vue3-resource)
+在线预览地址：[vue3-resource](https://userAccount.github.io/vue3-resource)
 ## 文档
 
 正在编写中......
@@ -52,7 +52,7 @@
 - 获取代码
 
 ```sh
-git clone https://github.com/hu-snail/vue3-admin-element-template.git
+git clone https://github.com/userAccount/vue3-admin-element-template.git
 ```
 
 - 安装依赖
@@ -87,17 +87,17 @@ yarn build:preview
 
 ## 预览
 
-在线预览地址：https://hu-snail.gitee.io/vue3-admin-element-template 
+在线预览地址：https://userAccount.gitee.io/vue3-admin-element-template 
 
 测试账号：admin/admin 密码可以随意输入
 
-![截图1](https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/demo/01.png)
+![截图1](https://gitee.com/userAccount/vue3-admin-element-template/raw/master/src/assets/demo/01.png)
 
-![截图2](https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/demo/02.png)
+![截图2](https://gitee.com/userAccount/vue3-admin-element-template/raw/master/src/assets/demo/02.png)
 
-![截图3](https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/demo/03.png)
+![截图3](https://gitee.com/userAccount/vue3-admin-element-template/raw/master/src/assets/demo/03.png)
 
-![截图4](https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/demo/04.png)
+![截图4](https://gitee.com/userAccount/vue3-admin-element-template/raw/master/src/assets/demo/04.png)
 
 ## 浏览器支持
 
@@ -107,13 +107,13 @@ yarn build:preview
 
 ## 维护者
 
-[@hu-snail](https://github.com/hu-snail/)
+[@userAccount](https://github.com/userAccount/)
 
 ## 捐赠
 
 如果你觉得这个项目对你有帮助，你可以帮作者买一杯咖啡表示支持!
 
-<div style="display: flex; justify-content: space-between;"><img width="48%" src="https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/wx.jpeg"/><img  width="48%" src="https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/zfb.jpeg"/></div>
+<div style="display: flex; justify-content: space-between;"><img width="48%" src="https://gitee.com/userAccount/vue3-admin-element-template/raw/master/src/assets/wx.jpeg"/><img  width="48%" src="https://gitee.com/hu-snail/vue3-admin-element-template/raw/master/src/assets/zfb.jpeg"/></div>
 
 ## License
 

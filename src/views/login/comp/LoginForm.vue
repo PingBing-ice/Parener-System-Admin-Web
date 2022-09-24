@@ -1,7 +1,7 @@
 <template>
   <el-form :model="ruleForm" :rules="rules" ref="validateForm" class="login-ruleForm">
     <el-form-item prop="username">
-      <el-input :placeholder="t('login.username')" v-model="ruleForm.username">
+      <el-input :placeholder="t('login.userAccount')" v-model="ruleForm.userAccount">
         <template #prefix>
           <icon-user theme="outline" size="16" fill="#999" />
         </template>
@@ -56,14 +56,14 @@
       const validateForm = ref(null);
       const state = reactive({
         ruleForm: {
-          username: 'admin',
+          userAccount: 'admin',
           password: 'admin',
         },
         loading: false,
         checkedPwd: false,
         redirect: undefined,
         rules: {
-          username: [{ required: true, message: t('login.rules.username'), trigger: 'blur' }],
+          userAccount: [{ required: true, message: t('login.rules.username'), trigger: 'blur' }],
           password: [{ required: true, message: t('login.rules.password'), trigger: 'blur' }],
         },
       });

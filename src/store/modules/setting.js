@@ -1,6 +1,6 @@
 /**
  * @description 主题全局配置状态
- * @author hu-snail 1217437592@qq.com
+ * @author userAccount 1217437592@qq.com
  */
 
 import { themeConfig } from '@/config/theme';

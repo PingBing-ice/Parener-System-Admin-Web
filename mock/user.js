@@ -24,8 +24,8 @@ export default [
     url: '/api/login',
     method: 'post',
     response: (config) => {
-      const { username } = config.body;
-      const accessToken = accessTokens[username];
+      const { userAccount } = config.body;
+      const accessToken = accessTokens[userAccount  ];
       if (!accessToken) {
         return {
           code: 500,
